@@ -1,0 +1,14 @@
+||zijieapi.com^$app=com.dragon.read
+||fqnovel.com^$app=com.dragon.read
+||snssdk.com^$app=com.dragon.read
+||zijieapi.com^$app=com.dragon.read
+||toutiaocloud.com^$app=com.dragon.read
+||ctobsnssdk.com^$app=com.dragon.read
+@@||api5-normal-lq.fqnovel.com
+@@||api3-normal-lq.fqnovel.com
+@@||p0-reading-private.fqnovel.com
+@@||mon.snssdk.com
+@@||is.snssdk.com
+@@||security.snssdk.com
+@@||reading.snssdk.com
+@@||toblog.ctobsnssdk.com
